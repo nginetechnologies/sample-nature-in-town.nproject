@@ -1,7 +1,7 @@
 {
     "name": "Nature In Town",
     "guid": "0c6799b7-156e-44a8-8211-f09fe6cded82",
-    "database_guid": "dd55dbb0-b924-c908-4da2-6724228965a2",
+    "database_guid": "b5ecd8d6-3dbf-6f8e-11ad-b4a33e10fca3",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
