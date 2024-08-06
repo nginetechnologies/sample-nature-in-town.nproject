@@ -1,0 +1,972 @@
+{
+    "guid": "df39c190-3eaa-3b4d-bdee-97a6e89f00a9",
+    "source": "../SC_Nature_In_Town.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0bf28b87-c527-9c53-ccb2-f1746f5cbb30",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Nature In Town"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "45048252-5d95-1b66-9f59-b606870edef8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bush Common"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f3b0d2a8-8f09-0308-a042-e606234a55c8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3a13f646-c427-9a21-7d6b-92162829a589",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bush Common Flowers"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5384348b-74eb-a98c-00ce-0bbe49a6473f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a7c5306e-6d45-87ce-8c93-0b97d6e3a93a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Clover 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "34860dae-4041-19ba-6746-4ef626bbec01"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a23d5656-7a9f-ef8e-5346-c7751354f1e7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Clover 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ee561f5f-2f18-af29-bf09-985b557f904e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e7f2b33c-8d74-99ff-4c30-c785a53573eb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Common Tree 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "87354e5c-92aa-481a-8292-1615eb517f21"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ce55a829-523e-6531-dbdc-6fd1079e7ad0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Common Tree 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ece51ab4-9832-2993-2651-8067ce83f06c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "17153c11-247b-2943-495b-8f54c76b5cac",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Common Tree 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "05fd06bb-8c4b-0582-4c19-ced82b576ec3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6e4de5bb-87f0-456e-3819-8ecbeaa62ca2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Common Tree 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ba7ad0b5-d8eb-a499-cee2-f1ec49eb069f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "86de497d-0d4d-d6df-c92b-68180915f48a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Common Tree 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5da879d1-c70b-5a91-e1cb-2988d19b39e3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b8e0a1d0-19a3-28a2-2a28-1f3126cac096",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dead Tree 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aeece660-4483-0c27-f23e-824e9fe5a255"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1427b35a-f0a6-6d49-4c61-be28b443320c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dead Tree 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "576aaa57-48d1-9071-22a7-86b4036de512"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "81661a7f-e602-8df0-2c6a-6c949476a11c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dead Tree 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bc4c4253-94e2-105c-4ccb-ac4f0f1541e5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8c1d93fb-32e9-1bbc-1f09-47134d5e67e6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dead Tree 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "476b0b4c-79da-01ce-9e5c-16e98c5190c8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f700612a-64d1-28e2-244a-efea94eb806f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dead Tree 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0ba02fc2-3ef6-d76a-9d9e-8f50164e1850"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0e0b9117-9400-4f61-6b2b-63aa38dba722",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fern 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "969ce2f0-552c-aad7-48ad-859d27922e39"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bd4c1cb6-026e-4729-6962-a34eb277c2e8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flower 3 Group"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0dcaf20b-a2b6-d110-666e-6e3bf6cfe791"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7d204ca5-9882-9815-5c02-e7603e49256e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flower 3 Single"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c98edb36-58ea-6afa-55f6-6b3c7d6cd97d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "188439d3-bd5d-1aaf-efa3-f3b552fa11fb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flower 4 Group"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3ea38d63-0ec1-91e1-dc62-fb8ddc2bb72c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "41a43af1-0337-1d85-140d-8f0be4353e71",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flower 4 Single"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d9e6e2ff-3530-9d6d-6623-d92859be1515"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1fe5d45b-024c-d2d7-f34a-7c85e9a49128",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass Common Short"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "da082cc5-bf32-ee39-f995-534e5c313642"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "59c219d8-3c0a-ded9-c92e-17bbe9c81adc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass Common Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d87e3d90-9d71-1715-ec14-f8b6c5abea3e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c4d9b666-d4d6-518c-e199-4d2bee84d9c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass Wispy Short"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a1986369-8f75-d236-bd7d-9fedd2e05893"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "037a7600-f52f-c287-fe4c-c08a111b9168",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass Wispy Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b32abaaf-acd0-626f-293f-acd0f0c30489"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3949a6b5-aef0-3ddf-3257-421ed85fe650",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom Common"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0d2f508b-911d-4ddf-fc3d-6b1dfdf7d758"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f55079d1-a54c-d66e-5c70-3d427e6c659b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom Laetiporus"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4bbef6ac-eba1-1649-f0b8-e37f7f1f56a2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "726f5ec2-1670-c3aa-8213-ad8c4af63a11",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Round 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d670c7bf-4aa5-9a3d-dbe1-177646301388"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d4a51606-00e1-5de2-ead0-c39d6eac5d47",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Round 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "40c3e581-89b2-cd81-ef9a-e9e370774221"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7d013f5e-5095-735f-cfe0-4702bd3a0b28",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Round 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d9ca2eca-2fd3-0501-126f-d7d4adb59ba7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "776ffd75-a1ee-9555-8e30-6ab83d51d11e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Round 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3b3c7e33-24c7-c286-ef43-c96be42df2e2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "628c8cf5-6e41-0c33-6ea7-11d2de40876f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Round 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fe581daa-65cf-2692-8618-6755278c87c0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "18fec948-9d61-a065-0316-1cf78063b9af",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Square 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0033ef16-efc4-8b8c-e19d-1ff70de3bc86"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3a6c1612-0db7-0c20-85aa-ff87958c9000",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Square 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ab8f127e-7983-c4f5-e1a1-1fb41d633c7e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5eafad87-51b6-deb1-bb9c-60441c09046a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Square 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5c661b60-0e4f-bdf8-92a9-16f706fe8455"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6b6926af-6acd-86f9-c4ef-55cebe20f5fd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Square 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e98a2a02-9317-f9f8-6b86-ea27423557e2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "075e02e1-1453-60a9-16ca-6c24b4e6bc44",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Square 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "44a600f4-2f08-d538-cc15-059c98d2ffeb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fcfe62f8-ab08-a6bd-c738-8395e03f254d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pebble Square 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "992efcfa-3c76-35f6-d2b5-d6af58c4774a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "db15e410-ee10-a48f-f0a1-38cf154117be",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Petal 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "eefbc79e-a73c-2f2e-8101-478407635dfa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fe90c78e-f547-4de7-5078-ead1a91de3b1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Petal 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "de734ed4-c2cf-b559-30f8-e3c0699847a8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a1963d1a-10d5-f4fe-1923-cf22c1ff7813",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Petal 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7c0cf058-8e15-df86-609e-fa85f3f932ea"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2b32ae40-97d7-4352-8bb7-2cc3c011c9a3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Petal 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "628c64c1-fb75-157b-5d9d-a99e9cff5ae8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "21db0b81-fdd2-0e12-905c-7cd800d68066",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Petal 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8cf78ab5-5b49-8dee-d4c3-733e4f9de90e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "39cac78e-b851-a00b-c7d7-6ec527005ffe",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pine 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "292ac149-9eb4-eae5-3903-3a777e67efd0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "63e7ae8d-24b2-426f-80f8-4913f7ed457c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pine 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d44222fb-2e38-859b-ac7d-13c6109aade5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "137935ac-7c67-a769-7571-8e6808a2a6fb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pine 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "358df2b6-6f32-1a6a-e431-e7f3daf18392"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "15d5ce68-5209-60a7-8be5-8b03c497bcce",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pine 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5500e2bd-5e64-2fad-23b0-71adbb0fcec9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a4598dba-0258-1fab-9dde-f9af898e8c70",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pine 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f9cd41f9-a37c-e729-0ed3-eab1cb202252"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ca5ca8a4-1b16-2841-a16d-c6663b1bd2c1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "472afdb5-be11-db99-8d13-4b1b304c25ff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "220fa806-bb04-63ce-5b30-1ce8dbd1a40d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant 1 Big"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ce2d5259-b2ae-3ff2-4027-6888dc5affe2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e5a27d02-fbfb-62c0-810b-52fe16c0016d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant 7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "87eb2091-cdaf-2f46-7766-9f8e8818606d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ea136b66-9dda-2638-ffe7-b0c1e37042eb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant 7 Big"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dd1b8412-cff5-809a-162d-563102b7824c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d9f4c2b-8fc2-06c4-8267-c5a746cf3637",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Medium 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d9d03c79-6e79-cc85-bb4e-a3328c029fb7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "06180131-8af2-f314-17dd-932cbefd1982",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Medium 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b5573145-fe0b-8872-ec6c-aea62491d89f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ccd40e05-f956-15c7-8903-a47db3411677",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Medium 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cdd8cd64-32dc-ca57-a635-666700b4b4c6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ab130261-10d8-53cd-83b6-7898acb23ba1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Path Round Small 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2b3f620f-2fc5-c0c4-45af-15f1f93afddf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5143ad00-c887-849c-272f-bee4596712ae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Path Round Small 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3671f972-8698-f851-9105-6ec554373981"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "46eb805d-c453-c00a-8a2e-de9a1755d342",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Path Round Small 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cdcefd44-ed26-ba08-e2e2-9aa3e2b9cb2c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1c06cc31-de7e-d3e4-b491-020fbcb84d3e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Path Round Thin"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d91ed20f-3ffe-5a53-bfa5-67dbae0c0b48"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "64920d8d-c366-48ec-40b5-a00c5689ef9e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Path Round Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dd11087e-9dd2-470c-c7ad-c081c6524781"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3b08b2af-c18c-723d-49ab-7ad37d126675",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Path Square Small 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "eb17c16c-eabb-9aed-1f26-3925d5a4a192"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0ff35993-8203-c076-9af8-e628c027c46a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Path Square Small 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8dabc17d-7e8e-906e-1abe-b668feefcc03"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8c7ef56d-abd7-e7bf-d6c8-26f9dbe25d44",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Path Square Small 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2508a695-8b54-87b0-37cd-37bddf1b0547"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "704733b4-54b6-d911-55fc-8a9c95678ff0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Path Square Thin"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f5dcf2d3-bca9-5224-c72c-5977c6b4b15e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "66b06bae-94da-00e8-d4f7-8698cf657b60",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Path Square Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "09e60fec-1f09-5ad9-cca3-4491209edb2c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3eb5a7a5-1057-cf02-6feb-887e109c67b0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Twisted Tree 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "447bb5fd-942a-4eed-cd14-e37026ca2253"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b26293d2-5cb7-cd6f-9f88-cff94104e3c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Twisted Tree 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "119b34ad-a7e1-34f8-5a97-1032fc7e270c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "14899f3f-dd51-f0d7-96f7-669af2cb9771",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Twisted Tree 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a385a785-afe2-d3f4-d1ac-dbbc0eaf1662"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "69a14bca-dee7-bcc8-1ff4-d756cdadf926",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Twisted Tree 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dd29b467-744e-66c4-792d-190aceef1bef"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "065882d4-f472-0c1b-0e8c-d767696f7dd3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Twisted Tree 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9cd5f194-9a41-cc66-f19a-c1491f8476b5"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "df39c190-3eaa-3b4d-bdee-97a6e89f00a9"
+    },
+    "dependencies": [
+        "f3b0d2a8-8f09-0308-a042-e606234a55c8",
+        "5384348b-74eb-a98c-00ce-0bbe49a6473f",
+        "34860dae-4041-19ba-6746-4ef626bbec01",
+        "ee561f5f-2f18-af29-bf09-985b557f904e",
+        "87354e5c-92aa-481a-8292-1615eb517f21",
+        "ece51ab4-9832-2993-2651-8067ce83f06c",
+        "05fd06bb-8c4b-0582-4c19-ced82b576ec3",
+        "ba7ad0b5-d8eb-a499-cee2-f1ec49eb069f",
+        "5da879d1-c70b-5a91-e1cb-2988d19b39e3",
+        "aeece660-4483-0c27-f23e-824e9fe5a255",
+        "576aaa57-48d1-9071-22a7-86b4036de512",
+        "bc4c4253-94e2-105c-4ccb-ac4f0f1541e5",
+        "476b0b4c-79da-01ce-9e5c-16e98c5190c8",
+        "0ba02fc2-3ef6-d76a-9d9e-8f50164e1850",
+        "969ce2f0-552c-aad7-48ad-859d27922e39",
+        "0dcaf20b-a2b6-d110-666e-6e3bf6cfe791",
+        "c98edb36-58ea-6afa-55f6-6b3c7d6cd97d",
+        "3ea38d63-0ec1-91e1-dc62-fb8ddc2bb72c",
+        "d9e6e2ff-3530-9d6d-6623-d92859be1515",
+        "da082cc5-bf32-ee39-f995-534e5c313642",
+        "d87e3d90-9d71-1715-ec14-f8b6c5abea3e",
+        "a1986369-8f75-d236-bd7d-9fedd2e05893",
+        "b32abaaf-acd0-626f-293f-acd0f0c30489",
+        "0d2f508b-911d-4ddf-fc3d-6b1dfdf7d758",
+        "4bbef6ac-eba1-1649-f0b8-e37f7f1f56a2",
+        "d670c7bf-4aa5-9a3d-dbe1-177646301388",
+        "40c3e581-89b2-cd81-ef9a-e9e370774221",
+        "d9ca2eca-2fd3-0501-126f-d7d4adb59ba7",
+        "3b3c7e33-24c7-c286-ef43-c96be42df2e2",
+        "fe581daa-65cf-2692-8618-6755278c87c0",
+        "0033ef16-efc4-8b8c-e19d-1ff70de3bc86",
+        "ab8f127e-7983-c4f5-e1a1-1fb41d633c7e",
+        "5c661b60-0e4f-bdf8-92a9-16f706fe8455",
+        "e98a2a02-9317-f9f8-6b86-ea27423557e2",
+        "44a600f4-2f08-d538-cc15-059c98d2ffeb",
+        "992efcfa-3c76-35f6-d2b5-d6af58c4774a",
+        "eefbc79e-a73c-2f2e-8101-478407635dfa",
+        "de734ed4-c2cf-b559-30f8-e3c0699847a8",
+        "7c0cf058-8e15-df86-609e-fa85f3f932ea",
+        "628c64c1-fb75-157b-5d9d-a99e9cff5ae8",
+        "8cf78ab5-5b49-8dee-d4c3-733e4f9de90e",
+        "292ac149-9eb4-eae5-3903-3a777e67efd0",
+        "d44222fb-2e38-859b-ac7d-13c6109aade5",
+        "358df2b6-6f32-1a6a-e431-e7f3daf18392",
+        "5500e2bd-5e64-2fad-23b0-71adbb0fcec9",
+        "f9cd41f9-a37c-e729-0ed3-eab1cb202252",
+        "472afdb5-be11-db99-8d13-4b1b304c25ff",
+        "ce2d5259-b2ae-3ff2-4027-6888dc5affe2",
+        "87eb2091-cdaf-2f46-7766-9f8e8818606d",
+        "dd1b8412-cff5-809a-162d-563102b7824c",
+        "d9d03c79-6e79-cc85-bb4e-a3328c029fb7",
+        "b5573145-fe0b-8872-ec6c-aea62491d89f",
+        "cdd8cd64-32dc-ca57-a635-666700b4b4c6",
+        "2b3f620f-2fc5-c0c4-45af-15f1f93afddf",
+        "3671f972-8698-f851-9105-6ec554373981",
+        "cdcefd44-ed26-ba08-e2e2-9aa3e2b9cb2c",
+        "d91ed20f-3ffe-5a53-bfa5-67dbae0c0b48",
+        "dd11087e-9dd2-470c-c7ad-c081c6524781",
+        "eb17c16c-eabb-9aed-1f26-3925d5a4a192",
+        "8dabc17d-7e8e-906e-1abe-b668feefcc03",
+        "2508a695-8b54-87b0-37cd-37bddf1b0547",
+        "f5dcf2d3-bca9-5224-c72c-5977c6b4b15e",
+        "09e60fec-1f09-5ad9-cca3-4491209edb2c",
+        "447bb5fd-942a-4eed-cd14-e37026ca2253",
+        "119b34ad-a7e1-34f8-5a97-1032fc7e270c",
+        "a385a785-afe2-d3f4-d1ac-dbbc0eaf1662",
+        "dd29b467-744e-66c4-792d-190aceef1bef",
+        "9cd5f194-9a41-cc66-f19a-c1491f8476b5"
+    ]
+}
